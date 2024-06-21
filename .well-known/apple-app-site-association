@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "details": [
+             {
+               "appIDs": [ "appid_placeholder"],
+               "components": [
+                    {
+                        "/": "/*",
+                        "comment": "Matches any URL with a path that starts with /."
+                    }
+                ]
+            }
+        ]
+    }
+}
+  

@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>Items Page</title>
+</head>
+<script>
+    const queryString = window.location.search;
+    console.log(queryString);
+    const urlParams = new URLSearchParams(queryString);
+    const id = urlParams.get('id')
+    console.log(id)
+    window.onload = (event) => {
+        document.getElementById("itemNumber").innerHTML = `Item Id: ${id}`
+    };
+</script>
+<body>
+  <h1>Thank you for checking out Items!</h1>
+  <h2 id="itemNumber"></h2>
+</body>
+</html>
