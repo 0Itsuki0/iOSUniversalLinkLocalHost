@@ -11,7 +11,7 @@ This is a respository for testing iOS Universal Link locally.
 
 For more details on how to set up and support an iOS app to support Local Link
 - [Support Universal Link (Host/Test Locally & on AWS)](https://blog.stackademic.com/swift-ios-support-universal-link-host-test-locally-on-aws-2620804062ad)
-- [SwiftUI: Handle Universal Link]()
+- [SwiftUI: Handle Universal Link(Show Specific View and Pass Data)](https://medium.com/@itsuki.enjoy/swiftui-handle-universal-link-show-specific-view-and-pass-data-9c8ee898bef7)
 
 
 
