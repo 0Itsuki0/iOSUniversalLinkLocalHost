@@ -11,6 +11,8 @@
                 ]
             }
         ]
+    },
+    "webcredentials": {
+      "apps": [ "appid_placeholder" ]
     }
 }
-  
